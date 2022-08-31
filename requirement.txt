@@ -1,0 +1,9 @@
+Flask==2.2.2
+Flask-SQLAlchemy==2.5.1
+joblib
+numpy
+pandas==1.2.4
+PyMySQL==1.0.2
+sklearn==0.0
+SQLAlchemy==1.4.29
+xgboost==1.5.1
