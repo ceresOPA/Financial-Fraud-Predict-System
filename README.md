@@ -7,6 +7,17 @@
 
 本项目代码分为三部分：数据分析与模型构建、Web前端系统、服务端。(如果想直接使用本系统的同学可以忽略数据分析与模型构建部分，直接按照说明完成项目的部署)
 
+## 界面展示
+
+<img src="./img/img1.png" width="430" height="250" align="left" />
+<img src="./img/img2.png" width="430" height="250" align="center" />
+<br>
+<img src="./img/img3.png" width="430" height="250" align="left" />
+<img src="./img/img4.png" width="430" height="250" align="center" />
+<br>
+<img src="./img/img5.png" width="430" height="250" align="left" />
+<img src="./img/img6.png" width="430" height="250" align="center" />
+
 ## 环境配置
 
 Python依赖库（推荐使用**anaconda**等虚拟环境，同时配置镜像源）
@@ -56,3 +67,7 @@ npm run dev
 ```
 
 ## 相关技术
+
+- ![](https://img.shields.io/badge/-Vue3-lightgreen)
+- ![](https://img.shields.io/badge/-Flask-blue)
+- ![](https://img.shields.io/badge/-XGBoost-red)
