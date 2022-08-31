@@ -9,14 +9,14 @@
 
 ## 界面展示
 
-<img src="./img/img1.png" width="430" height="250" align="left" />
-<img src="./img/img2.png" width="430" height="250" align="center" />
+<img src="./img/img1.png" width="410" height="250" align="left" />
+<img src="./img/img2.png" width="410" height="250" align="center" />
 <br>
-<img src="./img/img3.png" width="430" height="250" align="left" />
-<img src="./img/img4.png" width="430" height="250" align="center" />
+<img src="./img/img3.png" width="410" height="250" align="left" />
+<img src="./img/img4.png" width="410" height="250" align="center" />
 <br>
-<img src="./img/img5.png" width="430" height="250" align="left" />
-<img src="./img/img6.png" width="430" height="250" align="center" />
+<img src="./img/img5.png" width="410" height="250" align="left" />
+<img src="./img/img6.png" width="410" height="250" align="center" />
 
 ## 环境配置
 
